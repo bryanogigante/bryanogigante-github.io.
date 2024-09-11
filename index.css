@@ -1,0 +1,28 @@
+body{
+    margin-left: 0px;
+}
+
+button{
+    margin-left: 0px;
+    align-items: center;
+    border: none;
+    background-color: #0588f3;
+    padding: 0.4em;
+    border-radius: 10.5em;
+    opacity: 0.5;
+}
+a{
+    margin-left: 10px;
+    align-items: center;
+}
+
+body{
+    background-image: url(2x1_SuperMarioHub_image1600w.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img{
+    margin-left: 555px;
+    opacity: 0.9;
+   
+}
